@@ -1,10 +1,9 @@
-package main
+package two_sum
 
 import "fmt"
 
-/**
-空间换时间
- */
+// https://leetcode.com/problems/palindrome-linked-list/
+// 空间换时间
 func twoSum(nums []int, target int) []int {
 	var m = make(map[int]int)
 	m[nums[0]] = 0

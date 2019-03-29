@@ -1,7 +1,8 @@
-package main
+package palindrome_number
 
 import "fmt"
 
+// https://leetcode.com/problems/palindrome-number/
 // 思路 此消彼长 x=全部数字  r=后半段数字的翻转 当 r >= x时说明已经过了 x的一半了 如果是偶数 x==r 如果是奇数则去掉最后一位判断相等
 //  如:
 // 1221 对比: 12 和21的翻转是否相同
