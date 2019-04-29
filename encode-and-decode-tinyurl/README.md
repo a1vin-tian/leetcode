@@ -9,11 +9,6 @@ Design the encode and decode methods for the TinyURL service. There is no restri
 解决办法. 随即取6个字符放到map里，建立对应关系。 如果有就重复撞库
 
 
-```
-
-```
-
-
 时间:
 最好 O(1) 最坏 O(N)
 空间:
