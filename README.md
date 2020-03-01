@@ -25,6 +25,7 @@
 | 433 | [minimum-genetic-mutation]( https://leetcode-cn.com/problems/minimum-genetic-mutation/) | 广度优先搜索 数组 字符串 回溯算法| Medium |  [Python](algorithm/LeetCode_433_0041.py) |
 | 1091 | [shortest-path-in-binary-matrix]( https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_1091_0041.py) |
 | 733 | [sliding-puzzle]( https://leetcode-cn.com/problems/sliding-puzzle/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_773_0041.py) |
+| 10 | [regular-expression-matching]( https://leetcode-cn.com/problems/regular-expression-matching/) |字符串 动态规划 回溯算法 | Hard |  [Python](algorithm/[10]regular-expression-matching.py) |
 
 
 
