@@ -20,6 +20,13 @@
 | 115 | [distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences/) | 字符串 动态规划 | Hard |  [Go](algorithm/115-DistinctSubsequences.go) |
 | 85 | [maximal-rectangle]( https://leetcode-cn.com/problems/maximal-rectangle/) |栈 数组 哈希表 动态规划| Hard |  [Python](algorithm/[85]maximal-rectangle.py) |
 | 84 | [largest-rectangle-in-histogram]( https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |栈 数组 动态规划| Hard |  [Python](algorithm/LeetCode_84_0041.py) |
+| 127 | [word-ladder]( https://leetcode.com/problems/word-ladder/) |广度优先搜索| Medium |  [Python](algorithm/LeetCode_127_0041.py) |
+| 126 | [word-ladder-ii]( https://leetcode-cn.com/problems/word-ladder-ii/) | 广度优先搜索 数组 字符串 回溯算法| Hard |  [Python](algorithm/LeetCode_126_0041.py) |
+| 433 | [minimum-genetic-mutation]( https://leetcode-cn.com/problems/minimum-genetic-mutation/) | 广度优先搜索 数组 字符串 回溯算法| Medium |  [Python](algorithm/LeetCode_433_0041.py) |
+| 1091 | [shortest-path-in-binary-matrix]( https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_1091_0041.py) |
+| 733 | [sliding-puzzle]( https://leetcode-cn.com/problems/sliding-puzzle/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_773_0041.py) |
+
+
 
 
 
