@@ -16,7 +16,7 @@
 | 5 | [longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 动态规划 | Medium |  [Python](algorithm/LeetCode_5_0041.py) |
 | 680 | [valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 字符串 | Easy |  [Python](algorithm/LeetCode_680_0041.py) |
 | 205 | [isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings) | 字符串 | Easy |  [Python](algorithm/LeetCode_205_0041.py) |
-| 32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 字符串 动态规划 栈 | Hard |  [Python](algorithm/LeetCode_32_0041.py) |
+| 32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 字符串 动态规划 栈 | Hard |  [Python](algorithm/[32]longest-valid-parentheses.py) |
 | 115 | [distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences/) | 字符串 动态规划 | Hard |  [Go](algorithm/115-DistinctSubsequences.go) |
 | 85 | [maximal-rectangle]( https://leetcode-cn.com/problems/maximal-rectangle/) |栈 数组 哈希表 动态规划| Hard |  [Python](algorithm/[85]maximal-rectangle.py) |
 | 84 | [largest-rectangle-in-histogram]( https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |栈 数组 动态规划| Hard |  [Python](algorithm/LeetCode_84_0041.py) |
