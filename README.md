@@ -1,5 +1,10 @@
 | 编号 | 题目 | 类型 | 难度 | 解答 | 
 | --- | --- | --- |  --- | --- |
+| 1 | [TwoSum](https://leetcode-cn.com/problems/two-sum/) | 数组 哈希表| Easy | [Go](algorithm/TwoSum-1.go) [Python](algorithm/LeetCode_1_0041.py) |
+| 387 | [FirstUniqueCharacterInAString](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 哈希表 字符串| Easy | [Go](algorithm/FirstUniqueCharacterInAString-387.go) [Python](algorithm/LeetCode_387_0041.py) |
+| 8 | [StringToIntegerAtoi](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 数学 字符串 | Medium | [Go](algorithm/StringToIntegerAtoi-8.go) [Python](algorithm/LeetCode_8_0041.py) |
+| 115 | [DistinctSubsequences](https://leetcode-cn.com/problems/distinct-subsequences) | 字符串 动态规划| Hard | [Go](algorithm/115-DistinctSubsequences.go) [Python](algorithm/115-DistinctSubsequences.go) |
+| 1143 | [LongestCommonSubsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | 字符串 动态规划| Medium | [Go](algorithm/1143-LongestCommonSubsequence.go) [Python](algorithm/LeetCode_1143_0041.py) |
 | 1 | [two-sum](https://leetcode-cn.com/problems/two-sum/) | 数组 哈希表| Easy | [Go](algorithm/TwoSum-1.go) [Python](algorithm/LeetCode_1_0041.py) |
 | 387 | [first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 哈希表 字符串| Easy | [Go](algorithm/FirstUniqueCharacterInAString-387.go) [Python](algorithm/LeetCode_387_0041.py) |
 | 8 | [string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 数学 字符串 | Medium | [Go](algorithm/StringToIntegerAtoi-8.go) [Python](algorithm/LeetCode_8_0041.py) |
@@ -12,9 +17,9 @@
 | 680 | [valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 字符串 | Easy |  [Python](algorithm/LeetCode_680_0041.py) |
 | 205 | [isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings) | 字符串 | Easy |  [Python](algorithm/LeetCode_205_0041.py) |
 | 32 | [longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 字符串 动态规划 栈 | Hard |  [Python](algorithm/LeetCode_32_0041.py) |
-| 115 | [distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences/) | 字符串 动态规划 | Hard |  [Python](algorithm/LeetCode_115_0041.py) |
-| 85 | [maximal-rectangle]( https://leetcode-cn.com/problems/maximal-rectangle/) |栈 数组 哈希表 动态规划| Hard |  [Python](algorithm/LeetCode_115_0041.py) |
-| 84 | [maximal-rectangle]( https://leetcode-cn.com/problems/maximal-rectangle/) |栈 数组 哈希表 动态规划| Hard |  [Python](algorithm/LeetCode_115_0041.py) |
+| 115 | [distinct-subsequences](https://leetcode-cn.com/problems/distinct-subsequences/) | 字符串 动态规划 | Hard |  [Go](algorithm/115-DistinctSubsequences.go) |
+| 85 | [maximal-rectangle]( https://leetcode-cn.com/problems/maximal-rectangle/) |栈 数组 哈希表 动态规划| Hard |  [Python](algorithm/[85]maximal-rectangle.py) |
+| 84 | [largest-rectangle-in-histogram]( https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |栈 数组 动态规划| Hard |  [Python](algorithm/LeetCode_84_0041.py) |
 
 
 
