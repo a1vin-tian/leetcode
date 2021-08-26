@@ -26,6 +26,10 @@
 | 1091 | [shortest-path-in-binary-matrix]( https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_1091_0041.py) |
 | 733 | [sliding-puzzle]( https://leetcode-cn.com/problems/sliding-puzzle/) |广度优先搜索 | Medium |  [Python](algorithm/LeetCode_773_0041.py) |
 | 10 | [regular-expression-matching]( https://leetcode-cn.com/problems/regular-expression-matching/) |字符串 动态规划 回溯算法 | Hard |  [Python](algorithm/[10]regular-expression-matching.py) |
+| 44 | [wildcard-matching]( https://leetcode.com/problems/wildcard-matching) |贪心算法 字符串 动态规划 回溯算法 | Hard |  [Python](algorithm/[44]wildcard-matching.py) |
+| 120 | [triangle]( https://leetcode-cn.com/problems/triangle/description/) |数组 动态规划| Medium |  [Python](algorithm/LeetCode_120_0041.py) |
+| 70 | [triangle]( https://leetcode-cn.com/problems/triangle/description/) |数组 动态规划| Medium |  [Python](algorithm/LeetCode_120_0041.py) |
+| 70 | [ones-and-zeroes]( https://leetcode-cn.com/problems/ones-and-zeroes/) |动态规划| Medium |  [Python](algorithm/[474]ones-and-zeroes.py) |
 
 
 

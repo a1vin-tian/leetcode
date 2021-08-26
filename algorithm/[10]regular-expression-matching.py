@@ -108,7 +108,6 @@ class Solution:
                     dp[i][j] = dp[i][j - 2] or (p[j - 2] in {s[i - 1], '.'} and dp[i - 1][j])
                 else:
                     dp[i][j] = dp[i - 1][j - 1] and p[j - 1] in {s[i - 1], '.'}
-        print(dp)
         return dp[-1][-1]
 
 
